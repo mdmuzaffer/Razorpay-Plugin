@@ -1,0 +1,55 @@
+#registration-form-yoga .form-group {
+    color: #000;
+}
+
+#registration-form-yoga .form-group {
+    margin-bottom: 15px;
+}
+
+#registration-form-yoga .form-control {
+    width: 100%;
+    padding: 6px;
+}
+
+#registration-form-yoga .btn {
+    padding: 10px 20px;
+}
+#registration-form-yoga span.help-block {
+    color: red;
+}
+
+.toast-top-center-right {
+    top: 50%;
+    right: 5%;
+    transform: translateY(-50%);
+    width: 600px; 
+    margin-right: -200px;
+}
+
+.mailHeading {
+    text-align-last: center;
+    padding: 0px 0px 20px;
+}
+
+.toast-custom-center-right {
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    position: fixed;
+    z-index: 9999;
+}
+
+.main-form {
+    justify-content: center;
+}
+
+.page-id-7254 .zn_text_box {
+    text-align: center;
+}       
+
+span#gender-error {
+    margin-left: 175px;
+}
+span#month-error {
+    margin-left: 175px;
+}
